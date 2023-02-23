@@ -2,8 +2,8 @@
 Create a clean project with React using docker and docker-compose.
 
 ## Pre requirements
-- Docker
-- Docker-compose
+- Docker (version `23.0.0` or later)
+- Docker-compose (version `1.29.2` or later)
 
 ## How to start
 1. Clone this project
